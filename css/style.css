@@ -1,0 +1,122 @@
+body,td,th {
+    font-family: 'Lato', Arial, Verdana, Helvetica, sans-serif;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+h1 {
+    display: block;
+    font-size: 88px;
+    font-weight: bold;
+    line-height: 60px;
+}
+h2 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    margin-top: 30px;
+}
+h2 small {
+    text-transform: uppercase;
+    font-size: 17px;
+    color: #999;
+}
+h3 {
+    font-size: 17px;
+    margin: 0px 0px 17px 0px;
+}
+p {
+    font-family: Arial;
+    font-size: 1em;
+    line-height: 1.3em;
+}
+img {
+    width: 892px;
+}
+a:link {
+    text-decoration: none;
+    color: black;
+}
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    color: #F80000;
+}
+.center {
+    margin: auto;
+    width: 900px;
+}
+.header {
+    padding-top: 140px;
+    padding-bottom: 0px;
+    margin-bottom: 10px;
+    background-color: black;
+    color: white;
+    text-align: left;
+}
+.footer {
+    list-style: none;
+    text-align: left;
+    padding: 80px 0 80px 0;
+    background-color: #3a3a3a;
+    color: white;
+    text-align: left;
+}
+.footer-left {
+    padding: 0 0 0 80px;
+    width: 600px;
+    text-align: left;
+    float: left;
+}
+.footer-left img {
+    float: left;
+    width: 80px;
+    height: 80px;
+    margin: 5px 10px 0 0;
+    -moz-border-radius: 80px;
+    -webkit-border-radius: 80px;
+    border-radius: 80px;
+}
+.footer-left h3 {
+    font-weight: 300;
+    line-height: 1.4;
+    margin-bottom: 20px;
+}
+.footer-left p {
+    color: #999;
+}
+.thumbs li {
+    display: inline;
+}
+.thumbs li img {
+    display: inline;
+    width: 290px;
+    padding: 10px 7px 10px 0px;
+}
+.footer hr {
+    border: 0 none;
+    border-bottom: 2px dashed black;
+    display: block;
+}
+#portfolio {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.clear {
+    clear: both;
+    height: 0px;
+}
+.floatleft {
+    float:left;
+    overflow:hidden;
+    margin:0px 30px 0px 0px;
+}
+.floatleft ul {
+    list-style: square;
+}
+.subtext {
+    margin: -19px 0px 0px 0px;
+    text-transform: uppercase;
+    font-size: 14px;
+}
